@@ -1,3 +1,2 @@
----
-title: Welcome to my blog!
----
+# Frederik De Loore
+## AI Engineer
